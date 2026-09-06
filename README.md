@@ -13,7 +13,7 @@ Generated tables and figures are written to the corresponding folders in **`outp
 
 ## License
 
-The code in this repository is released under the **GNU General Public License v3.0 (GPL-3.0)**. 
+The code in this repository is released under the **GNU General Public License v3.0 (GPL-3.0)**. See `LICENSE` for details.
 
 ## Citation
 
