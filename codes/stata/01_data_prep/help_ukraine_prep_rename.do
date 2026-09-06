@@ -1,0 +1,30 @@
+/// rename regions to merge with other dataset
+sort district_en
+generate code_geo = .
+replace code_geo = 4 in 1
+replace code_geo = 1 in 2
+replace code_geo = 2 in 3
+replace code_geo = 3 in 4
+replace code_geo = 5 in 5
+replace code_geo = 6 in 6
+replace code_geo = 7 in 7
+replace code_geo = 8 in 8
+replace code_geo = 9 in 9
+replace code_geo = 10 in 10
+replace code_geo = 13 in 11
+replace code_geo = 12 in 12
+replace code_geo = 11 in 15
+replace code_geo = 15 in 13
+replace code_geo = 14 in 14
+replace code_geo = 16 in 16
+replace code_geo = 17 in 17
+replace code_geo = 18 in 18
+replace code_geo = 19 in 19
+replace code_geo = 20 in 20
+replace code_geo = 21 in 21
+replace code_geo = 22 in 22
+replace code_geo = 24 in 23
+replace code_geo = 25 in 24
+replace code_geo = 23 in 25
+replace code_geo = 26 in 26
+replace code_geo = 27 in 27
